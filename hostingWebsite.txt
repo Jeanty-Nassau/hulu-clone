@@ -1,1 +1,2 @@
 this app is hosted on vercel.
+@ https://hulu-clone-oo3ett73k-jeanty01.vercel.app

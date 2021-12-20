@@ -11,6 +11,7 @@ function Thumbnail({ result }) {
         layout="responsive"
         height={1080}
         width={1920}
+        alt=""
         src={`${BASE_URL}${result.backdrop_path || result.poster_path} ` || `${BASE_URL}${result.poster_path}`}
       />
       <div className="p-2">
